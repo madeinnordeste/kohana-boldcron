@@ -1,0 +1,11 @@
+<payment>
+      <payment_method>##payment_method##</payment_method>
+      <installments>1</installments>
+      <payment_value>##payment_value##</payment_value>
+      <cc_brand>##payment_cc_brand##</cc_brand>
+      <cc_number>##payment_cc_number##</cc_number>
+      <cc_cvv>##payment_cc_cvv##</cc_cvv>
+      <cc_exp_month>##payment_cc_exp_month##</cc_exp_month>
+      <cc_exp_year>##payment_cc_exp_year##</cc_exp_year>
+      <cc_card_holder>##payment_cc_holder##</cc_card_holder>
+</payment>

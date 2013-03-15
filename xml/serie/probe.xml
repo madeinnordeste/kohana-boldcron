@@ -1,0 +1,9 @@
+<BPagBackOfficeWS>
+    <Recorrencia>
+        <ConsultarStatus>
+            <subject>##subject##</subject>
+            <codSerie>##id##</codSerie>
+            <codOcorrencia>##occurrence_number##</codOcorrencia>
+        </ConsultarStatus>
+    </Recorrencia>
+</BPagBackOfficeWS>

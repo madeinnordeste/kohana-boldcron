@@ -1,0 +1,37 @@
+<payOrder>
+    <order_data>
+        <merch_ref>##merch_ref##</merch_ref>
+        <origin>e-commerce</origin>
+        <currency>BRL</currency>
+        <order_subtotal>##order_subtotal##</order_subtotal>
+        <order_total>##order_total##</order_total>
+        <order_items>
+            <order_item>
+                <code>##order_item_code##</code>
+                <description>##order_item_description##</description>
+                <units>1</units>
+                <unit_value>##order_item_unit_value##</unit_value>
+            </order_item>
+        </order_items>
+    </order_data>
+    <behavior_data>
+        <language>ptbr</language>
+        <url_post_bell>##behavior_data_url_post_bell##</url_post_bell>
+    </behavior_data>
+    <payment_data>
+        ##payment_data##
+    </payment_data>
+    <customer_data>
+        <customer_id>##customer_id##</customer_id>
+        <customer_ip>##customer_ip##</customer_ip>
+        <customer_info>
+            ##customer_info##
+        </customer_info>
+        <billing_info>
+                ##billing_info##
+        </billing_info>
+        <shipment_info>
+                ##shipment_info##
+        </shipment_info>
+    </customer_data>
+</payOrder>

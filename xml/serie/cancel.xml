@@ -1,0 +1,7 @@
+<BPagBackOfficeWS>
+    <Recorrencia>
+        <CancelarSerie>
+            <codSerie>##id##</codSerie>
+        </CancelarSerie>
+    </Recorrencia>
+</BPagBackOfficeWS>

@@ -1,0 +1,8 @@
+<BPagBackOfficeWS>
+    <Recorrencia>
+        <CancelarOcorrencia>
+            <codSerie>##id##</codSerie>
+            <codOcorrencia>##occurrence_number##</codOcorrencia>
+        </CancelarOcorrencia>
+    </Recorrencia>
+</BPagBackOfficeWS>

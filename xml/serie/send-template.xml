@@ -1,0 +1,51 @@
+<BPagBackOfficeWS>
+   <Recorrencia>
+       <Assinatura>
+         <pessoal>
+           <nome>Dados Pessoais 2</nome>
+           <cpfCnpj>10885104501</cpfCnpj>
+           <telefone>12 3038-1906</telefone>
+           <e-mail>teste@teste.com</e-mail>
+           <endereco>Rod. Presidente Dutra, km 154,7 </endereco>
+           <numero>100</numero>
+           <bairro>Rio Comprido</bairro>
+           <cidade>São José dos Campos</cidade>
+           <uf>SP</uf>
+           <cep>12240-420</cep>
+           <celular>12 0000-0001</celular>
+           <login>usuario@email.com</login>
+           <dataNascimento>1984-02-27</dataNascimento>
+       </pessoal>
+       <serie>
+           <codSerie>recorrencia005bc</codSerie>
+           <descontos>0</descontos>
+           <diaPagamento>1</diaPagamento>
+           <sacado>
+              <nome>Sacado Carlos E F Correa</nome>
+              <cpfCnpj></cpfCnpj>
+              <telefone>12 3902-0000</telefone>
+              <e-mail></e-mail>
+          </sacado>
+          <plano>
+           <novoPlano>
+               <valor>1000</valor>
+               <periodicidade>MENSAL</periodicidade>
+               <numOcorrencias>5</numOcorrencias>
+           </novoPlano>
+       </plano>
+       <meioPagamento>
+        <codigoFormaPagamento>cielows2p_visa</codigoFormaPagamento>
+        <tipo>2</tipo>
+        <cartaoCredito>
+            <numero>4532348717410080</numero>
+            <codigoVerificacao>123</codigoVerificacao>
+            <dataValidade>052013</dataValidade>
+            <bandeira>VISA</bandeira>
+            <titular>Teste</titular>
+            <cpfCnpj></cpfCnpj>
+        </cartaoCredito>
+    </meioPagamento>
+</serie>
+</Assinatura>
+</Recorrencia>
+</BPagBackOfficeWS>

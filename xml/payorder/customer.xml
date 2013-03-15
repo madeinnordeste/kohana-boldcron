@@ -1,0 +1,26 @@
+<first_name>##name##</first_name>
+<middle_name>##middle_name##</middle_name>
+<last_name>##last_name##</last_name>
+<email>##email##</email>
+<gender>##gender##</gender>
+<birthday>##birthday##</birthday>
+<document_type>0</document_type>
+<document>##cpf_cnpj##</document>
+<phone_home>
+    <country_code>55</country_code>
+    <area_code>##phone_area_code##</area_code>
+    <phone_number>##phone##</phone_number>
+</phone_home>
+<phone_mobile>
+    <country_code>55</country_code>
+    <area_code>##cellphone_area_code##</area_code>
+    <phone_number>##cellphone##</phone_number>
+</phone_mobile>
+<address_street>##address##</address_street>
+<address_street_nr>##address_number##</address_street_nr>
+<address_additional_data>##address_complement##</address_additional_data>
+<address_comunity>##address_burgh##</address_comunity>
+<address_city>##address_city##</address_city>
+<address_state>##address_state##</address_state>
+<address_country>BR</address_country>
+<address_zip>##address_zip##</address_zip>
